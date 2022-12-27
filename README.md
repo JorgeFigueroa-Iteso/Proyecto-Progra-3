@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/JorgeFigueroa-Iteso/Proyecto-Progra-3)
 
 ## Reporte Final
-Reporte del proyecto -> [Reporte](https://github.com/JorgeFigueroa-Iteso/Proyecto-Progra-3/blob/main/Evaluación%20de%20exp%20matemáticas.pdf)
+Reporte del proyecto -> [Reporte](https://github.com/JorgeFigueroa-Iteso/Proyecto-Progra-3/blob/main/Reporte3_PMD_2022_DSLC_SCC_JRFM.pdf)
 
 Este se realizará SIN interfaz gráfica, por lo que será en consola
 
@@ -12,29 +12,19 @@ Este se realizará SIN interfaz gráfica, por lo que será en consola
 
 ## Uso
 
-> Es un proyecto personal, no es para el público, el archivo ".exe", pero no el .c
-
-> Es un Evalucador de expresiones matemáticas, como se mecionó anteriormente, con un menú que se mostrará en la terminal
-
-> Si una expresión matemática es incorrecta, se debe de mostrar en pantalla que la expresión que ingresó el usuario NO es correcta
-
-> Notación que se utiliza en el programa: "-", "/", "*", y el uso de los corchetes tendrá que ser el siguiente:
-> 	8/4/2 -> (8/4)/2 | 2+3*4 -> 2+(3*4)
-> También es válido:
-> 	(2+(3*4)) -> ((2+30*4))
+> Es un contenedor DGraph, el cual almacenará números y letras en sus "Nodos" y "Vértices", los cuales tendrán identificadores únicos
 
 ## Colaboradores
-- Enoch Joaquín Álvarez Goñi
-- José Emiliano Figueroa Hernandez
+- Sebastián Carrillo Cuevas
 - Jorge Ramón Figueroa Maya
+- Diego Salvador Luna Campos
 
 ## Inspectores
 - [x] 'Jesús Ivan Echevarria Ruiz'
 
 ## Licencia
-> No se permite el uso de este código, tal como plagio, en caso de querer utilizar el código, contacte con alguno de los dos Colaboladores
-
-> Si lo copias, eres puto juasjuasjuas
+> No se permite el uso de este código, tal como plagio o uso del mismo, sin el consentimiento de los colaboradores
+> En caso de querer usarlo, favor de contactarme [DISCORD](https://discordapp.com/users/778382750502748160)
 
 ## Estatus del proyecto
 Finalizado
