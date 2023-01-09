@@ -15,9 +15,9 @@ Este se realizará SIN interfaz gráfica, por lo que será en consola
 > Es un contenedor DGraph, el cual almacenará números y letras en sus "Nodos" y "Vértices", los cuales tendrán identificadores únicos
 
 ## Colaboradores
-- Sebastián Carrillo Cuevas
-- Jorge Ramón Figueroa Maya
-- Diego Salvador Luna Campos
+- Sebastián C.C
+- Jorge R.F.M
+- Diego S.L.C
 
 ## Inspectores
 - [x] 'Jesús Ivan Echevarria Ruiz'
