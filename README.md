@@ -20,7 +20,7 @@ Este se realizará SIN interfaz gráfica, por lo que será en consola
 - Diego S.L.C
 
 ## Inspectores
-- [x] 'Jesús Ivan Echevarria Ruiz'
+- [x] 'Jesús I.E.R'
 
 ## Licencia
 > No se permite el uso de este código, tal como plagio o uso del mismo, sin el consentimiento de los colaboradores
